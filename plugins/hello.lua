@@ -53,7 +53,7 @@ local function run(msg, matches)
     local receiver = get_receiver(msg)
     send_photo_from_url(receiver, url)
   else
-    return 'Error' 
+    return 'سلامممم 👋' 
   end
 end
 
