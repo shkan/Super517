@@ -14,12 +14,7 @@
 do
 
 function run(msg, matches)
-  return 'سلام این ربات توسط 
-  @rextoor 
-ساخته شده است جهت خرید  به سایت antispam.nort.ir مراجعه کنید 
-کانال : 
-@anti_spam_nort
-لطفا وارد شید گپ های رایگان منتظر شما هستن .' 
+  return 'سلام این ربات توسط  @rextoor ساخته شده است جهت خرید  به سایت antispam.nort.ir مراجعه کنید  کانال :  @anti_spam_nort لطفا وارد شید گپ های رایگان منتظر شما هستن .' 
   --[[ Checkout https://github.com/Josepdal/DBTeam
   --GNU GPL v2 license.]]
 end
