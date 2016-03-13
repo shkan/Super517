@@ -14,7 +14,12 @@
 do
 
 function run(msg, matches)
-  return 'DBTeam Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot \n\nhttp://github.com/Josepdal/DBTeam\n\nDevelopers :\n@MaSkAoS\n@Josepdal\n\nSupport :\n@skneos\n@iicc1\n@Serx666' 
+  return 'سلام این ربات توسط 
+  @rextoor 
+ساخته شده است جهت خرید  به سایت antispam.nort.ir مراجعه کنید 
+کانال : 
+@anti_spam_nort
+لطفا وارد شید گپ های رایگان منتظر شما هستن .' 
   --[[ Checkout https://github.com/Josepdal/DBTeam
   --GNU GPL v2 license.]]
 end
